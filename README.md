@@ -1,10 +1,10 @@
-# bloomberg-datasets
+# bloomberg-datasets 
 
-## An independent repository containing my Thesis data for the completion of MSc Computational Finance @ UCL
+## An independent repository containing financial data
 
 ### Description
 
-While I often find myself changing code thorughout a project, I rarely do so with datasets. The intended purpose of isolating the data in a different repository is to avoid permanently modifying it, or such that any modifications are tractable. It is also a warranty to ensure subsequent work may be replicated, and, perhaps less importantly, to decluter a bit the main repository. 
+While I often find myself changing code thorughout a project, I rarely do so with datasets. The intended purpose of isolating the data in a different repository is to avoid permanently modifying it, or such that any modifications are tractable. It is also a warranty to ensure subsequent work (see [calibration-repo](https://github.com/aallann/calibration)) may be replicated. Perhaps less importantly, this also helps decluter a bit the main repository. 
 
 ### Structure
 
