@@ -10,7 +10,7 @@ While I often find myself changing code thorughout a project, I rarely do so wit
 
 This intended submodule is hence structured as follows:
 > #### Raw
->> Datasets as downloaded from source (in this case bbg), save some modifications to file names to make our lifes a bit easier.
+>> Datasets as downloaded from source (in this case bbg), save some modifications to file names to make our lifes easier.
 
 > #### Clean 
 >> Preprocessed data intended to be used in the task at hand, in this case, calibration of stochastic local volatility models.
