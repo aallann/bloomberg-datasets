@@ -16,3 +16,5 @@ This intended submodule is hence structured as follows:
 >> Preprocessed data intended to be used in the task at hand, in this case, calibration of stochastic local volatility models.
 
 Wihtin either of the subfolders, you may find data pertaining to over-the-counter (OTC) foreign-exchange (FX) quotations of implied volatilities, currency yield curves (EUR €, $USD), and spot-rate for the notional pair EUR-USD for the year 2023.
+
+This is a test commit using this repository as a submodule.
